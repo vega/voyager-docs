@@ -13,7 +13,7 @@
     * [Custom Wildcard Fields](top-panel-1/wildcard-fields/custom-wildcard-fields.md)
 * [Encoding Panel](untitled/README.md)
   * [Encoding Shelves](untitled/encoding-shelves.md)
-  * Pop-ups
+  * [Pop-ups](untitled/pop-ups.md)
   * [Wildcard Function](untitled/wildcard-function.md)
   * [Mark Selection](untitled/mark-selection.md)
   * [Facet](untitled/untitled-1.md)
