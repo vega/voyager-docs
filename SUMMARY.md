@@ -15,7 +15,8 @@
   * [Encoding Shelves](untitled/encoding-shelves.md)
   * Pop-ups
   * [Wildcard Function](untitled/wildcard-function.md)
+  * [Mark Selection](untitled/mark-selection.md)
+  * [Facet](untitled/untitled-1.md)
 * Specified Views
-* [Mark Selection](mark-selection.md)
-* [Facet](untitled-1.md)
+* [Wildcard Shelves](untitled-1.md)
 
