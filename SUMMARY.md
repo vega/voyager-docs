@@ -13,6 +13,9 @@
     * [Custom Wildcard Fields](top-panel-1/wildcard-fields/custom-wildcard-fields.md)
 * [Encoding Panel](untitled/README.md)
   * [Encoding Shelves](untitled/encoding-shelves.md)
+  * Pop-ups
   * [Wildcard Function](untitled/wildcard-function.md)
 * Specified Views
+* [Mark Selection](mark-selection.md)
+* [Facet](untitled-1.md)
 
