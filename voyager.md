@@ -8,4 +8,33 @@ Voyager 2 is a new mixed-initiative tool that blends manual and automatic chart 
 
 TODO: show image with annotations
 
-TODO: List different parts and links
+TODO: List different parts (and links to "actions" that they can do)
+
+- For top-panel, just describe in a sentence what it has
+- Bookmark - move to end -- your top-panel text can say there is a button for opening bookmark gallery (link)
+- Data -- select dataset (link)
+- Encoding - for 
+
+
+
+Pages
+- Loading? Data
+- Visualizing Data
+  - Univariate Summary (This one kind of related views, say more)
+  - Encoding Channels (just drag and drop) -- show related views for the first screenshot
+  - Function Popups
+    - Quantitative (Aggregate + Bin)
+    - T (timeUnit)
+  - Customizing Visualization (Later)
+  - Filtering
+  - Related Views
+  - Wildcards
+    - Wildcard Fields
+      - Demo: Drag WF to normal shelf
+    - Wildcard Shelves
+      - Demo: normal Field to W shelf + W Field => W Shelf
+    - Wildcard Functions
+      
+- Bookmark
+- Using Voyager in JupyterLab
+
