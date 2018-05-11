@@ -1,8 +1,18 @@
 # Data Fields
 
-Depending on your dataset, the list of data fields will change accordingly. These fields, or combination of fields, can be dragged into the Encoding Panel to the right. They can also be  filtered, expanded upon, and have different types to select from that can be visualized in the Specified or Related Views.
+Users can add fields to the Encoding Panel by clicking the Plus Button on the right of the field pill, or by dragging a field into an encoding shelf.
+
+![Data Fields](../.gitbook/assets/datafields2%20%281%29.PNG)
+
+ Underneath the Fields section is a list of data fields from the dataset. From left to right, in a field pill, there is:
+
+1.  A dropdown for changing the field's type if applicable
+2.  A symbol that represents the field's type \(**A** for categorical, **Calendar **for temporal, **\# **for quantitative\) 
+3. The field name
+4. The filter button
+5. The auto add to encoding shelf button
+
+![Data Fields](../.gitbook/assets/datafields.gif)
 
 
-
-automatically shows the datatype, but also shows if it's nominal or quantitative, data field name, filter, and Auto Add to encoding shelf
 

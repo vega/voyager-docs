@@ -17,6 +17,12 @@
   * [Wildcard Function](untitled/wildcard-function.md)
   * [Mark Selection](untitled/mark-selection.md)
   * [Facet](untitled/untitled-1.md)
-* Specified Views
-* [Wildcard Shelves](untitled-1.md)
+  * [Wildcard Shelves](untitled/untitled-1-1.md)
+  * [Filter](untitled/filter.md)
+* [Specified Views and Related Views Panel](specified-views/README.md)
+  * Specified Views
+    * Action Buttons
+  * [Related Views](specified-views/related-views/README.md)
+    * [Related Summaries](specified-views/related-views/untitled-1.md)
+    * [Field Suggestions](specified-views/related-views/field-suggestions.md)
 
