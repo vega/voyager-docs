@@ -4,12 +4,12 @@
 * [Introduction](introduction.md)
 * [Load Data](data-selector.md)
 * Visualizing Data
-  * Univariate Summary
+  * [Univariate Summary](visualizing-data/univariate-summary.md)
   * [Encoding Panel](visualizing-data/encoding-panel/README.md)
     * [Encoding Shelves](visualizing-data/encoding-panel/encoding-shelves.md)
-    * [Function Pop-ups](visualizing-data/encoding-panel/pop-ups.md)
     * [Mark Selection](visualizing-data/encoding-panel/mark-selection.md)
     * [Facet](visualizing-data/encoding-panel/facet.md)
+  * [Function Pop-ups](visualizing-data/pop-ups.md)
   * [Filter](visualizing-data/filter.md)
   * [Related Views](visualizing-data/related-views/README.md)
     * [Related Summaries](visualizing-data/related-views/related-summaries.md)
@@ -21,4 +21,5 @@
     * [Wildcard Function](visualizing-data/wildcard-fields/wildcard-function.md)
 * [Bookmark Gallery](bookmark-gallery.md)
 * Using Voyager in JuypterLab
+* Customizing Visualizations \(later\)
 
