@@ -1,4 +1,8 @@
-# Pop-ups
+# Function Pop-ups
+
+ Quantitative \(Aggregate + Bin\) 
+
+ T \(timeUnit\)
 
 encoding customizer
 

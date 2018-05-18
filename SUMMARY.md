@@ -9,7 +9,7 @@
   * Univariate Summary
 * [Encoding Panel](encoding-panel/README.md)
   * [Encoding Shelves](encoding-panel/encoding-shelves.md)
-  * [Pop-ups](encoding-panel/pop-ups.md)
+  * [Function Pop-ups](encoding-panel/pop-ups.md)
   * [Mark Selection](encoding-panel/mark-selection.md)
   * [Facet](encoding-panel/facet.md)
 * [Filter](filter.md)
