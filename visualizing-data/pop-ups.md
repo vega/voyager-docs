@@ -1,10 +1,14 @@
 # Function Pop-ups
 
- Quantitative \(Aggregate + Bin\) 
+####  Quantitative Field Popup
+
+ Quantitative fields have a function popup for specifying various aggregations and bin.
 
 ![](../.gitbook/assets/screen-shot-2018-05-18-at-2.14.36-pm.png)
 
- T \(timeUnit\)
+####  Temporal Field Popup
+
+ Temporal fields have a function popup for specifying various timeunit functions.
 
 ![](../.gitbook/assets/screen-shot-2018-05-18-at-2.13.06-pm.png)
 
