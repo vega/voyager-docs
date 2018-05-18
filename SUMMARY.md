@@ -2,8 +2,6 @@
 
 * [Introduction](README.md)
 * [Introduction](introduction.md)
-* [Top Panel](top-panel/README.md)
-  * [Undo/Redo](top-panel/undo-redo.md)
 * [Data Panel](data-panel/README.md)
   * [Data Selector](data-panel/data-selector.md)
   * [Data Fields](data-panel/data-fields.md)
