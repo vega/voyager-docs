@@ -2,7 +2,7 @@
 
 Users can add fields to the Encoding Panel by clicking the Plus Button on the right of the field pill, or by dragging a field into an encoding shelf.
 
-![Data Fields](../.gitbook/assets/datafields2%20%281%29.PNG)
+![Data Fields](.gitbook/assets/datafields2%20%281%29.PNG)
 
  Underneath the Fields section is a list of data fields from the dataset. From left to right, in a field pill, there is:
 
@@ -12,7 +12,7 @@ Users can add fields to the Encoding Panel by clicking the Plus Button on the ri
 4. The filter button
 5. The auto add to encoding shelf button
 
-![Data Fields](../.gitbook/assets/datafields.gif)
+![Data Fields](.gitbook/assets/datafields.gif)
 
 
 
