@@ -10,6 +10,7 @@
     * [Mark Selection](visualizing-data/encoding-panel/mark-selection.md)
     * [Facet](visualizing-data/encoding-panel/facet.md)
   * [Function Pop-ups](visualizing-data/pop-ups.md)
+  * Customizing Visualizations \(for later\)
   * [Filter](visualizing-data/filter.md)
   * [Related Views](visualizing-data/related-views/README.md)
     * [Related Summaries](visualizing-data/related-views/related-summaries.md)
@@ -21,5 +22,4 @@
     * [Wildcard Function](visualizing-data/wildcard-fields/wildcard-function.md)
 * [Bookmark Gallery](bookmark-gallery.md)
 * Using Voyager in JuypterLab
-* Customizing Visualizations \(later\)
 
