@@ -1,9 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Introduction](introduction/README.md)
-  * [Data Fields](introduction/data-fields.md)
-  * [Specified Views and Related Views Panel](introduction/specified-views-and-related-views-panel.md)
+* [Introduction](introduction.md)
 * [Load Data](data-selector.md)
 * Visualizing Data
   * Univariate Summary
