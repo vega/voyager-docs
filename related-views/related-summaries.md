@@ -2,7 +2,7 @@
 
 Summaries are a part of related views and present aggregate plots to augment a focus view showing raw data. 
 
-![Related Summaries](../../.gitbook/assets/temprelatedsummaries.PNG)
+![Related Summaries](../.gitbook/assets/temprelatedsummaries.PNG)
 
 
 
