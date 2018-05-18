@@ -4,7 +4,7 @@
 * [Introduction](introduction.md)
 * [Load Data](data-selector.md)
 * Visualizing Data
-  * [Univariate Summary](visualizing-data/univariate-summary.md)
+  * [Univariate Summaries](visualizing-data/univariate-summary.md)
   * [Encoding Panel](visualizing-data/encoding-panel/README.md)
     * [Encoding Shelves](visualizing-data/encoding-panel/encoding-shelves.md)
     * [Mark Selection](visualizing-data/encoding-panel/mark-selection.md)
