@@ -6,7 +6,7 @@
 
 encoding customizer
 
-![](../.gitbook/assets/encodingshelves2%20%281%29.PNG)
+![](../../.gitbook/assets/encodingshelves2%20%281%29.PNG)
 
 function picker
 

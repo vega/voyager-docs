@@ -4,7 +4,7 @@ Related views automatically recommends charts based on the current user-specifie
 
 #### Related views with a specified view:
 
-![Related Views](../.gitbook/assets/relatedviews.png)
+![Related Views](../../.gitbook/assets/relatedviews.png)
 
 #### 
 
@@ -12,7 +12,7 @@ When a view is specified, Related Views will show related summaries, field sugge
 
 #### Related views without a specified focus view:
 
-![Upon loading a dataset, related views show univariate summaries for all fields.](../.gitbook/assets/univariate.PNG)
+![Upon loading a dataset, related views show univariate summaries for all fields.](../../.gitbook/assets/univariate.PNG)
 
 
 
