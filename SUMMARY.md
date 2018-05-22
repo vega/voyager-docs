@@ -11,6 +11,7 @@
   * [Related Views](visualizing-data/related-views/README.md)
     * [Related Summaries](visualizing-data/related-views/related-summaries.md)
     * [Field Suggestions](visualizing-data/related-views/field-suggestions.md)
+    * [Alternative Encodings](visualizing-data/related-views/alternative-encodings.md)
   * [Wildcard Fields](visualizing-data/wildcard-fields/README.md)
     * [Custom Wildcard Fields](visualizing-data/wildcard-fields/custom-wildcard-fields.md)
     * [Preset Wildcard Fields](visualizing-data/wildcard-fields/preset-wildcard-fields.md)
@@ -18,5 +19,4 @@
     * [Wildcard Function](visualizing-data/wildcard-fields/wildcard-function.md)
 * [Bookmark Gallery](bookmark-gallery.md)
 * Using Voyager in JuypterLab
-* Alternative Encodings
 
