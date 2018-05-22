@@ -1,4 +1,4 @@
-# Customizing Visualizations \(for later\)
+# Customizing Visualizations
 
 ![](../.gitbook/assets/customization.gif)
 

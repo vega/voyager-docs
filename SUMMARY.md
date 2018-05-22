@@ -6,7 +6,7 @@
   * [Univariate Summaries](visualizing-data/univariate-summaries.md)
   * [Specify Visual Encodings](visualizing-data/specify-visual-encoding.md)
   * [Function Pop-ups](visualizing-data/function-pop-ups.md)
-  * [Customizing Visualizations \(for later\)](visualizing-data/customizing-visualizations-for-later.md)
+  * [Customizing Visualizations](visualizing-data/customizing-visualizations-for-later.md)
   * [Filter](visualizing-data/filter.md)
   * [Related Views](visualizing-data/related-views/README.md)
     * [Related Summaries](visualizing-data/related-views/related-summaries.md)
