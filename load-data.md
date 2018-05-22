@@ -6,7 +6,7 @@ The first step is to select and load data, click Change Dataset in the Data Pane
 
 #### Change Dataset:
 
-This tab contains a list of preset datasets that users can explore. 
+This tab contains a list of preset datasets that you can explore. 
 
 ![Data Selector: Change Dataset Tab](.gitbook/assets/changedataset.PNG)
 
