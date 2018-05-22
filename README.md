@@ -6,7 +6,7 @@ Voyager 2 is a new mixed-initiative tool that blends manual and automatic chart 
 
 ## Interface Overview
 
-![User Interface](.gitbook/assets/ui.png)
+![](.gitbook/assets/largeui.png)
 
 This figure shows the Voyager interface, which has the following parts:
 
