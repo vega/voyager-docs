@@ -1,6 +1,6 @@
 # Load Data
 
-The first step is to select and load data, click Change Dataset in the Data Panel. You can load data in multiple ways: **Change Dataset**, **Paste or Upload Data**, **From URL.**
+To select and load data, click the Change button in the Data Panel. You can load data using any of the three tabs: **Change Dataset**, **Paste or Upload Data**, **From URL.**
 
 ![Data Selector](.gitbook/assets/data_selector.gif)
 
@@ -20,7 +20,7 @@ Upload a CSV, TSV, or JSON file or paste data in CSV format into the input box.
 
 #### From URL
 
-Upload a CSV, TSV, or JSON file from URL. Make sure that the formatting is correct and clean before adding the data in. The added dataset is only visible to you. 
+Upload a CSV, TSV, or JSON file from URL. Make sure that the formatting is correct and clean before adding data in. The added dataset is only visible to you. 
 
 ![Data Selector: From URL Tab](.gitbook/assets/fromurl.PNG)
 
