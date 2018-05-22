@@ -1,6 +1,6 @@
 # Encoding Panel
 
-![](../../.gitbook/assets/encodingchannelsrv.PNG)
+![](../.gitbook/assets/encodingchannelsrv.PNG)
 
 TODO: show data pane too
 
