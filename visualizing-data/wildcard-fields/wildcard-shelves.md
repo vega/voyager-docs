@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/screen-shot-2018-05-21-at-7.25.00-pm.png)
 
-Wildcard shelves allow users to add fields without selecting a specific channel, allowing the system to suggest appropriate encodings.
+Wildcard shelves allow you to add fields without selecting a specific channel, allowing the system to suggest appropriate encodings.
 
 ![](../../.gitbook/assets/wildcard_shelves.gif)
 
