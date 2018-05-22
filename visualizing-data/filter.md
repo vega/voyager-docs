@@ -2,5 +2,5 @@
 
 The filter panel shows dynamic query controls for filtering.
 
-![Filter Panel](../.gitbook/assets/filter.PNG)
+![](../.gitbook/assets/screen-shot-2018-05-22-at-1.01.56-pm.png)
 
