@@ -14,19 +14,19 @@ Via a drop-down menu, analysts can select a transformation such as an aggregatio
 
 ### Mark Selection
 
-![](../../.gitbook/assets/mark_selection.gif)
+![](../.gitbook/assets/mark_selection.gif)
 
 By default, the system automatically picks an appropriate mark type. Analysts can override this choice using a drop-down menu.
 
 ### Facet
 
-![](../../.gitbook/assets/screen-shot-2018-05-21-at-7.46.58-pm.png)
+![](../.gitbook/assets/screen-shot-2018-05-21-at-7.46.58-pm.png)
 
 The row and column channels can be used to create vertical facets and horizontal facets for trellis plots.
 
-![Row is used for vertical facets.](../../.gitbook/assets/screen-shot-2018-05-21-at-7.45.02-pm.png)
+![Row is used for vertical facets.](../.gitbook/assets/screen-shot-2018-05-21-at-7.45.02-pm.png)
 
-![Column is used for horizontal facets.](../../.gitbook/assets/screen-shot-2018-05-21-at-7.46.30-pm.png)
+![Column is used for horizontal facets.](../.gitbook/assets/screen-shot-2018-05-21-at-7.46.30-pm.png)
 
 
 

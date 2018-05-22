@@ -4,8 +4,7 @@
 * [Load Data](load-data.md)
 * Visualizing Data
   * [Univariate Summaries](visualizing-data/univariate-summaries.md)
-  * [Specify Visual Encodings](visualizing-data/specify-visual-encoding/README.md)
-    * [Encoding Shelves](visualizing-data/specify-visual-encoding/encoding-shelves.md)
+  * [Specify Visual Encodings](visualizing-data/specify-visual-encoding.md)
   * [Function Pop-ups](visualizing-data/function-pop-ups.md)
   * Customizing Visualizations \(for later\)
   * [Filter](visualizing-data/filter.md)
