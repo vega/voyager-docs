@@ -6,8 +6,7 @@ The encoding shelves are grouped into positional channels \(e.g. x, y\), mark ch
 
 ![](../.gitbook/assets/drag_to_encoding_shelf.gif)
 
-* To visualize data, you can drag-and-drop a data field onto an encoding channel shelf \(e.g., x, y, color\). By default, the system encodes raw \(unaggregated\) values. 
-* Via a drop-down menu, you can select a transformation such as an aggregation, binning, or time unit function.
+To visualize data, you can drag-and-drop a data field onto an encoding channel shelf \(e.g., x, y, color\). By default, the system encodes raw \(unaggregated\) values. You can select a transformation such as an aggregation, binning, or time unit function via a drag-and-drop menu \(not shown\).
 
 ### Mark Selection
 
