@@ -1,6 +1,6 @@
 # Wildcard Shelves
 
-![Wildcard Shelves](../../.gitbook/assets/wildcardshelves.PNG)
+![](../../.gitbook/assets/screen-shot-2018-05-21-at-7.25.00-pm.png)
 
 Wildcard shelves allow users to add fields without selecting a specific channel, allowing the system to suggest appropriate encodings.
 
