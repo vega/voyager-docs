@@ -4,11 +4,11 @@
 
  Quantitative fields have a function pop-up for specifying various aggregations and bin.
 
-![](../.gitbook/assets/screen-shot-2018-05-18-at-2.14.36-pm.png)
+![](../.gitbook/assets/screen-shot-2018-05-21-at-8.18.25-pm.png)
 
 ###  Temporal Field Popup
 
  Temporal fields have a function pop-up for specifying various time-unit functions.
 
-![](../.gitbook/assets/screen-shot-2018-05-18-at-2.13.06-pm.png)
+![](../.gitbook/assets/screen-shot-2018-05-21-at-8.19.04-pm.png)
 
