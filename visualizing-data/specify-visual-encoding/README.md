@@ -24,9 +24,9 @@ By default, the system automatically picks an appropriate mark type. Analysts ca
 
 The row and column channels can be used to create vertical facets and horizontal facets for trellis plots.
 
-![](../../.gitbook/assets/screen-shot-2018-05-21-at-7.45.02-pm.png)
+![Row is used for vertical facets.](../../.gitbook/assets/screen-shot-2018-05-21-at-7.45.02-pm.png)
 
-![](../../.gitbook/assets/screen-shot-2018-05-21-at-7.46.30-pm.png)
+![Column is used for horizontal facets.](../../.gitbook/assets/screen-shot-2018-05-21-at-7.46.30-pm.png)
 
 
 
