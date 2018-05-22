@@ -20,4 +20,5 @@
     * [Wildcard Function](visualizing-data/wildcard-fields/wildcard-function.md)
 * [Bookmark Gallery](bookmark-gallery.md)
 * Using Voyager in JuypterLab
+* Specify Visual Encoding
 
