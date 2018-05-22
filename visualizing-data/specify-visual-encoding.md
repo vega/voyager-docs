@@ -12,7 +12,7 @@ Additionally, you can select a transformation such as an aggregation, binning, o
 
 ![](../.gitbook/assets/mark_selection.gif)
 
-By default, the system automatically picks an appropriate mark type. Analysts can override this choice using a drop-down menu.
+By default, the system automatically picks an appropriate mark type. You can override this choice using the mark selector drop-down menu.
 
 ### Facet
 
