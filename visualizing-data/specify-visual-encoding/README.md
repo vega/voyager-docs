@@ -1,4 +1,4 @@
-# Specify Visual Encoding
+# Specify Visual Encodings
 
 ## Encoding Shelves
 
