@@ -2,7 +2,7 @@
 
 Related views automatically recommends charts based on the current user-specified focus view, promoting discovery of relevant data fields and alternative ways to summarize or encode the data.
 
-### Related views with a specified view:
+### Related Views with a specified view:
 
 ![Related Views](../../.gitbook/assets/relatedviews.png)
 
