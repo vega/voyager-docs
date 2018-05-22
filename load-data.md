@@ -1,6 +1,6 @@
 # Load Data
 
-To select and load data, click Change Dataset in the Data Panel. A modal will appear with several tabs: **Change Dataset**, **Paste or Upload Data**, **From URL.**
+The first step is to select and load data, click Change Dataset in the Data Panel. You can load data in multiple ways: **Change Dataset**, **Paste or Upload Data**, **From URL.**
 
 ![Data Selector](.gitbook/assets/data_selector.gif)
 
