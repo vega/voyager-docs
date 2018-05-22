@@ -14,7 +14,7 @@ Via a drop-down menu, analysts can select a transformation such as an aggregatio
 
 ### Mark Selection
 
-![](../../.gitbook/assets/screen-shot-2018-05-21-at-7.48.04-pm.png)
+![](../../.gitbook/assets/mark_selection.gif)
 
 By default, the system automatically picks an appropriate mark type. Analysts can override this choice using a drop-down menu.
 
