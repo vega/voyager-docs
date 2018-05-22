@@ -2,6 +2,8 @@
 
 ### Encoding Shelves
 
+![](../.gitbook/assets/drag_to_encoding_shelf.gif)
+
 The encoding shelves are grouped into positional channels \(e.g. x, y\), mark channels \(e.g. size, color, shape, detail, text\), and facet channels \(e.g. row, column\).
 
 
