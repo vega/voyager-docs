@@ -7,7 +7,6 @@
   * [Specify Visual Encodings](visualizing-data/specify-visual-encoding/README.md)
     * [Encoding Shelves](visualizing-data/specify-visual-encoding/encoding-shelves.md)
     * [Mark Selection](visualizing-data/specify-visual-encoding/mark-selection.md)
-    * [Facet](visualizing-data/specify-visual-encoding/facet.md)
   * [Function Pop-ups](visualizing-data/function-pop-ups.md)
   * Customizing Visualizations \(for later\)
   * [Filter](visualizing-data/filter.md)
