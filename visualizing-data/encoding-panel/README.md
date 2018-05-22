@@ -1,4 +1,4 @@
-# Specifying Visual Encoding
+# Encoding Panel
 
 ![](../../.gitbook/assets/encodingchannelsrv.PNG)
 

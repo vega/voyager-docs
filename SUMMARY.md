@@ -1,15 +1,14 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Introduction](introduction.md)
-* [Load Data](data-selector.md)
+* [Load Data](load-data.md)
 * Visualizing Data
-  * [Univariate Summaries](visualizing-data/univariate-summary.md)
+  * [Univariate Summaries](visualizing-data/univariate-summaries.md)
   * [Encoding Panel](visualizing-data/encoding-panel/README.md)
     * [Encoding Shelves](visualizing-data/encoding-panel/encoding-shelves.md)
     * [Mark Selection](visualizing-data/encoding-panel/mark-selection.md)
     * [Facet](visualizing-data/encoding-panel/facet.md)
-  * [Function Pop-ups](visualizing-data/pop-ups.md)
+  * [Function Pop-ups](visualizing-data/function-pop-ups.md)
   * Customizing Visualizations \(for later\)
   * [Filter](visualizing-data/filter.md)
   * [Related Views](visualizing-data/related-views/README.md)
