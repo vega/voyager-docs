@@ -10,7 +10,7 @@
   * [Related Views](visualizing-data/related-views/README.md)
     * [Related Summaries](visualizing-data/related-views/related-summaries.md)
     * [Field Suggestions](visualizing-data/related-views/field-suggestions.md)
-  * Specify Visual Encoding
+  * [Specify Visual Encoding](visualizing-data/specify-visual-encoding/README.md)
     * [Encoding Shelves](visualizing-data/specify-visual-encoding/encoding-shelves.md)
     * [Mark Selection](visualizing-data/specify-visual-encoding/mark-selection.md)
     * [Facet](visualizing-data/specify-visual-encoding/facet.md)
