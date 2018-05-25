@@ -1,16 +1,8 @@
 # Related Views
 
-Related Views automatically recommends charts based on the current user-specified focus view, promoting discovery of relevant data fields and alternative ways to summarize or encode the data. There are two different ways Related Views appear.
+Related Views automatically recommends charts based on the current user-specified focus view, promoting discovery of relevant data fields and alternative ways to summarize or encode the data.
 
-### Related Views Without a Specified Focus View:
-
-As mentioned earlier, upon loading a dataset, Related Views show univariate summaries for all fields.
-
-![](../.gitbook/assets/univariate-1.PNG)
-
-### Related Views With a Specified View:
-
-Once you specify a visualization, Related Views will show related summaries, field suggestions, and alternative encodings for the current view.
+When you specify a visualization, Related Views will show related summaries, field suggestions, and alternative encodings in different sections underneath the current view.
 
 ![](../.gitbook/assets/relatedviews.png)
 
