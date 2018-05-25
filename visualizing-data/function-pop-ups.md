@@ -4,7 +4,7 @@
 
  ~~Quantitative fields have a function pop-up for specifying various aggregations and bin.~~
 
-![](../.gitbook/assets/screen-shot-2018-05-21-at-8.18.25-pm.png)
+![](../.gitbook/assets/screen-shot-2018-05-21-at-8.18.25-pm%20%281%29.png)
 
 ###  ~~Temporal Field Popup~~
 
