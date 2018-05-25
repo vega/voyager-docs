@@ -14,5 +14,5 @@
     * [Wildcard Function](visualizing-data/wildcard-fields/wildcard-function.md)
   * [Customizing Visualizations](visualizing-data/customizing-visualizations.md)
 * [Bookmark Gallery](bookmark-gallery.md)
-* Using Voyager in JuypterLab
+* [Using Voyager in JuypterLab](using-voyager-in-juypterlab.md)
 
