@@ -10,5 +10,5 @@
 
  ~~Temporal fields have a function pop-up for specifying various time-unit functions.~~
 
-![](../.gitbook/assets/screen-shot-2018-05-21-at-8.19.04-pm.png)
+![](../.gitbook/assets/screen-shot-2018-05-21-at-8.19.04-pm%20%281%29.png)
 
