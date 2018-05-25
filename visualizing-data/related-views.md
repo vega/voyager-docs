@@ -12,8 +12,6 @@ When a view is specified, Related Views will show related summaries, field sugge
 
 ### Related Views Without a Specified Focus View:
 
-![Upon loading a dataset, Related Views show univariate summaries for all fields.](../.gitbook/assets/univariate%20%281%29.PNG)
-
 ### Related Summaries
 
 Summaries are a part of related views and present aggregate plots to augment a focus view showing raw data. 
@@ -29,6 +27,8 @@ Field suggestions show the results of encoding one additional field within the f
 ### Alternative Encodings 
 
 Alternative encodings display other options for visualizing the same data \(data fields and transformations identical to the focus view\) when there are multiple effective encodings. For example, you can encode origin using a partitioned trellis plot in addition to using a color encoding, or use area mark instead of line.
+
+![Upon loading a dataset, Related Views show univariate summaries for all fields.](../.gitbook/assets/univariate%20%281%29.PNG)
 
 ![](../.gitbook/assets/altenc.png)
 
