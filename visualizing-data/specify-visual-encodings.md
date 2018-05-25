@@ -24,5 +24,15 @@ The row and column channels can be used to create vertical facets and horizontal
 
 ![Column is used for horizontal facets.](../.gitbook/assets/screen-shot-2018-05-21-at-7.46.30-pm.png)
 
+### Quantitative Field Pop-up
 
+ Quantitative fields have a function pop-up for specifying various aggregations and bin.
+
+ADD IMAGE 
+
+### Temporal Field Popup
+
+ Temporal fields have a function pop-up for specifying various time-unit functions.
+
+ADD IMAGE 
 
