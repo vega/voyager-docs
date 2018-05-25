@@ -5,12 +5,8 @@
 * Visualizing Data
   * [Univariate Summaries](visualizing-data/univariate-summaries.md)
   * [Specify Visual Encodings](visualizing-data/specify-visual-encodings.md)
-  * [Function Pop-ups](visualizing-data/function-pop-ups.md)
   * [Filter](visualizing-data/filter.md)
-  * [Related Views](visualizing-data/related-views/README.md)
-    * [Related Summaries](visualizing-data/related-views/related-summaries.md)
-    * [Field Suggestions](visualizing-data/related-views/field-suggestions.md)
-    * [Alternative Encodings](visualizing-data/related-views/alternative-encodings.md)
+  * [Related Views](visualizing-data/related-views.md)
   * [Wildcard Fields](visualizing-data/wildcard-fields/README.md)
     * [Preset Wildcard Fields](visualizing-data/wildcard-fields/preset-wildcard-fields.md)
     * [Custom Wildcard Fields](visualizing-data/wildcard-fields/custom-wildcard-fields.md)
