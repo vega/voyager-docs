@@ -4,7 +4,7 @@ These wildcards represent all fields of a particular data type \(Quantitative, C
 
 TODO:
 
-Scatterplot, gallery demo
+create gallery of 1D Stripplots and then add another  Q wildcard and create gallery of scatterplots
 
 ![](../../.gitbook/assets/wildcard_fields_preset.gif)
 
