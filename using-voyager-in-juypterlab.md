@@ -6,7 +6,17 @@ To open local files through the context menu, right click on valid file types \(
 
 ![](.gitbook/assets/openingvoyager.gif)
 
-#### 
+#### TODO:
+
+OPENING DATA
+
+USING VOYAGER
+
+* Explore using pandas dataframe
+* Generate Altair code for visualizations 
+* Generate voyager instances given Altair visualizations 
+
+EXPORTING/SAVING DATA
 
 
 
