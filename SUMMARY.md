@@ -7,7 +7,7 @@
   * [Specify Visual Encodings](visualizing-data/specify-visual-encodings.md)
   * [Filter](visualizing-data/filter.md)
   * [Related Views](visualizing-data/related-views.md)
-  * [Wildcard Fields](visualizing-data/wildcard-fields/README.md)
+  * [Wildcards](visualizing-data/wildcard-fields/README.md)
     * [Preset Wildcard Fields](visualizing-data/wildcard-fields/preset-wildcard-fields.md)
     * [Custom Wildcard Fields](visualizing-data/wildcard-fields/custom-wildcard-fields.md)
     * [Wildcard Shelves](visualizing-data/wildcard-fields/wildcard-shelves.md)

@@ -1,4 +1,4 @@
-# Wildcard Fields
+# Wildcards
 
 Wildcard fields let you create multiple views in parallel by enumerating over a set of fields. Quantitative, Categorical, and Temporal field wildcards are provided by default, though you can manually author custom wildcards containing the desired fields.
 
