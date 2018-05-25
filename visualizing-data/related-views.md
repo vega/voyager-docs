@@ -2,15 +2,17 @@
 
 Related Views automatically recommends charts based on the current user-specified focus view, promoting discovery of relevant data fields and alternative ways to summarize or encode the data.
 
+### Related Views Without a Specified Focus View:
+
+Upon loading a dataset, Related Views show univariate summaries for all fields.
+
+![](../.gitbook/assets/univariate-1.PNG)
+
 ### Related Views With a Specified View:
 
-![Related Views](../.gitbook/assets/relatedviews.png)
+Once you specify a visualization, Related Views will show related summaries, field suggestions, and alternative encodings for the current view.
 
-#### 
-
-When a view is specified, Related Views will show related summaries, field suggestions, and alternative encodings for the current view.
-
-### Related Views Without a Specified Focus View:
+![](../.gitbook/assets/relatedviews.png)
 
 ### Related Summaries
 
@@ -27,8 +29,6 @@ Field suggestions show the results of encoding one additional field within the f
 ### Alternative Encodings 
 
 Alternative encodings display other options for visualizing the same data \(data fields and transformations identical to the focus view\) when there are multiple effective encodings. For example, you can encode origin using a partitioned trellis plot in addition to using a color encoding, or use area mark instead of line.
-
-![Upon loading a dataset, Related Views show univariate summaries for all fields.](../.gitbook/assets/univariate%20%281%29.PNG)
 
 ![](../.gitbook/assets/altenc.png)
 
