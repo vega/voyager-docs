@@ -6,5 +6,5 @@ FILTER GIF OF DRAGGING
 
 
 
-![](../.gitbook/assets/screen-shot-2018-05-22-at-1.01.56-pm.png)
+![](../.gitbook/assets/filtering.gif)
 
