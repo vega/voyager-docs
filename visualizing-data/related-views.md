@@ -14,19 +14,19 @@ Once you specify a visualization, Related Views will show related summaries, fie
 
 ![](../.gitbook/assets/relatedviews.png)
 
-### Related Summaries
+#### Related Summaries
 
 Summaries are a part of related views and present aggregate plots to augment a focus view showing raw data. 
 
 ![](../.gitbook/assets/screen-shot-2018-05-21-at-7.26.57-pm%20%281%29.png)
 
-### Field Suggestion
+#### Field Suggestion
 
 Field suggestions show the results of encoding one additional field within the focus view.
 
 ![](../.gitbook/assets/fieldsugg.png)
 
-### Alternative Encodings 
+#### Alternative Encodings 
 
 Alternative encodings display other options for visualizing the same data \(data fields and transformations identical to the focus view\) when there are multiple effective encodings. For example, you can encode origin using a partitioned trellis plot in addition to using a color encoding, or use area mark instead of line.
 
