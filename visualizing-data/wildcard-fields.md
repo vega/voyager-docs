@@ -4,7 +4,7 @@ There are three types of wildcards: Wildcard Fields, Wildcard Shelves and Wildca
 
 ### Wildcard Fields
 
-Wildcard fields let you create multiple views in parallel by enumerating over a set of fields. Quantitative, Categorical, and Temporal field wildcards are provided by default, though you can manually author custom wildcards containing the desired fields.
+Wildcard fields let you create multiple views in parallel by enumerating over a set of fields. Quantitative, Categorical, and Temporal field wildcards are provided by [default](wildcard-fields.md#preset-wildcard-fields), though you can manually author [custom](wildcard-fields.md#custom-wildcard-fields) wildcards containing the desired fields.
 
 ![](../.gitbook/assets/screen-shot-2018-05-22-at-1.30.06-pm.png)
 
@@ -18,7 +18,7 @@ These wildcards represent all fields of a particular data type \(Quantitative, C
 
 _**REDO:**_
 
-create gallery of 1D Stripplots and then add another  Q wildcard and create gallery of scatterplots
+* Create gallery of 1D Stripplots and then add another  Q wildcard and create gallery of scatterplots
 
 ![](../.gitbook/assets/wildcard_fields_preset%20%281%29.gif)
 
