@@ -34,7 +34,7 @@ The screenshot below shows that the system automatically encoded the two quantit
 
 ### Wildcard Function
 
-Wildcard functions allow simultaneous specification of data field transformations. Checking the wildcard checkbox in an encoding shelf’s drop-down menu enables a wildcard function. Once enabled, the radio buttons for each function become check-boxes, allowing you to select which functions to include. The encoding shelf capsule denotes the use of wildcard functions with “?”.
+Wildcard functions allow simultaneous specification of data field transformations.  When the "Wildcard" button is enabled, the radio buttons for each function will become check-boxes, allowing you to select which functions to enumerate. The field pill will denote that it has become a wildcard field by wrapping the field name with with “?”.
 
 ![](../.gitbook/assets/wildcard_functions.gif)
 
