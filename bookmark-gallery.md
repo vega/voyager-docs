@@ -4,5 +4,5 @@ Bookmarked visualizations can be viewed in the bookmark gallery. Once a visualiz
 
 ![](.gitbook/assets/screen-shot-2018-05-21-at-7.56.59-pm.png)
 
-You can add and edit notes for bookmarked visualizations from within this panel. You can also use the export all button to export Vega-Lite specs for all bookmarked visualizations or click the clear all button to delete all bookmarks 
+You can add and edit notes for bookmarked visualizations from within this panel. You can also use the export all button to export Vega-Lite specs for all bookmarked visualizations or click the clear all button to delete all bookmarks.
 
