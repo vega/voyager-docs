@@ -14,7 +14,7 @@ This tab contains a list of preset datasets that you can explore.
 
 #### Paste or Upload Data:
 
-Upload a CSV, TSV, or JSON file or paste data in CSV format into the input box. 
+Click \`Choose File\` to upload a CSV, TSV, or JSON file or paste data in CSV format into the input box. 
 
 ![Data Selector: Paste or Upload Data Tab](.gitbook/assets/pasteoruploaddata.PNG)
 
