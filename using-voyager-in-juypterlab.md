@@ -1,8 +1,8 @@
 # Using Voyager in JuypterLab
 
-### **Give a Data Source Input, Open it in Voyager**
+### **Given a Data Source, Open it in Voyager**
 
-To open local files through the context menu, right click on valid file types \(json, csv, tsv, vl.json\), select 'Open with', then select "Voyager".
+To open local files through the context menu, right click on a valid file  \(JSON, CSV, TSV, vl.JSON\), select 'Open with', and click "Voyager".
 
 ![](.gitbook/assets/openingvoyager.gif)
 
