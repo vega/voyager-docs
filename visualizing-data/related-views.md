@@ -1,6 +1,6 @@
 # Related Views
 
-Related Views automatically recommends charts based on the current user-specified focus view, promoting discovery of relevant data fields and alternative ways to summarize or encode the data.
+Related Views automatically recommends charts based on your currently specified view, promoting discovery of relevant data fields and alternative ways to summarize or encode the data.
 
 When you specify a visualization, Related Views will show related summaries, field suggestions, and alternative encodings in different sections underneath the current view.
 
