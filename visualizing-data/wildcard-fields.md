@@ -34,7 +34,7 @@ The screenshot below shows the system automatically encoding the two quantitativ
 
 ### Wildcard Function
 
-Wildcard functions allow simultaneous specification of data field transformations. When the "Wildcard" button is enabled, the radio buttons for each function will become check-boxes, allowing you to select which functions to enumerate. The field pill will denote that it has become a wildcard field by wrapping the field name with with “?”.
+Wildcard functions allow simultaneous specification of data field transformations. When the "Wildcard" button is enabled, the radio buttons for each function will become check-boxes, allowing you to select the functions you want to enumerate. The field pill will denote that it has become a wildcard field by wrapping the field name with with “?”.
 
 ![](../.gitbook/assets/wildcard_functions.gif)
 
