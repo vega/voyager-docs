@@ -28,7 +28,7 @@ Wildcard shelves let you add fields without selecting a specific channel, allowi
 
 ![](../.gitbook/assets/ws.png)
 
-The screenshot below shows the system automatically encoding the two quantitative fields onto the **x** and **y** axis since they were the most perceptually effective and expressive channels available.
+The screenshot below shows the system automatically encoding the two quantitative fields onto the `x` and `y` channels since they were the most perceptually effective and expressive channels available.
 
 ![](../.gitbook/assets/wsgif.gif)
 
