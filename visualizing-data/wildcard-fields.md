@@ -1,6 +1,6 @@
 # Wildcards
 
-There are three types of wildcards: Wildcard Fields, Wildcard Shelves and Wildcard functions.
+Wildcards let you to precisely vary the properties of a specification to generate multiple visualizations in parallel. There are three types of wildcards: Wildcard Fields, Wildcard Shelves and Wildcard functions.
 
 ### Wildcard Fields
 
