@@ -6,7 +6,7 @@ The encoding shelves are grouped into positional channels \(e.g. x, y\), mark ch
 
 ![](../.gitbook/assets/drag_to_encoding_shelf.gif)
 
-To visualize data, you can drag-and-drop a data field onto an encoding channel shelf \(e.g., x, y, color\). By default, the system encodes raw \(unaggregated\) values. You can select a transformation such as an [aggregation, binning](https://data-voyager.gitbook.io/voyager/visualizing-data/specify-visual-encodings#quantitative-field-function-pop-up), or [time unit function](https://data-voyager.gitbook.io/voyager/visualizing-data/specify-visual-encodings#temporal-field-function-popup) via a pop-up menu.
+To visualize data, you can drag-and-drop a data field onto an encoding channel shelf \(e.g., x, y, color\). By default, the system encodes raw \(unaggregated\) values. You can select a transformation such as an [aggregation, binning](https://data-voyager.gitbook.io/voyager/visualizing-data/specify-visual-encodings#quantitative-field-function-pop-up), or [time unit function](https://data-voyager.gitbook.io/voyager/visualizing-data/specify-visual-encodings#temporal-field-function-popup) via a pop-up function menu.
 
 ### Mark Selection
 
