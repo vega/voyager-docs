@@ -10,8 +10,6 @@ Wildcard fields let you create multiple views in parallel by enumerating over a 
 
 ![](../.gitbook/assets/screen-shot-2018-05-22-at-1.30.42-pm.png)
 
-To create a wildcard for a specific set of fields, analysts can author a custom wildcard field by dragging desired fields to the wildcard list. To avoid incongruous views, Voyager prevents analysts from creating custom wildcard fields containing multiple data types. 
-
 #### Preset Wildcard Fields
 
 These wildcards represent all fields of a particular data type \(Quantitative, Categorical, and Temporal\). You can simply drag-and-drop a wildcard field onto an encoding shelf to create multiple charts in parallel. 
