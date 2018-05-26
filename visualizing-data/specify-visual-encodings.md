@@ -12,7 +12,7 @@ To visualize data, you can drag-and-drop a data field onto an encoding channel s
 
 ![](../.gitbook/assets/mark_selection.gif)
 
-By default, the system automatically picks an appropriate mark type. You can override this choice using a drop-down menu.
+By default, the system automatically picks an appropriate mark type. You can override this choice using the mark selector drop-down menu.
 
 ### Facet
 
