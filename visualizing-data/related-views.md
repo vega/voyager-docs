@@ -2,7 +2,7 @@
 
 Related Views automatically recommends charts based on your currently specified view, promoting discovery of relevant data fields and alternative ways to summarize or encode the data.
 
-When you specify a visualization, Related Views will show related summaries, field suggestions, and alternative encodings in different sections underneath the current view.
+When you specify a visualization, Related Views will show [related summaries](https://data-voyager.gitbook.io/voyager/visualizing-data/related-views#related-summaries), [field suggestions](https://data-voyager.gitbook.io/voyager/visualizing-data/related-views#field-suggestion), and [alternative encodings](https://data-voyager.gitbook.io/voyager/visualizing-data/related-views#alternative-encodings) in different sections underneath the current view.
 
 ![](../.gitbook/assets/relatedviews.png)
 
