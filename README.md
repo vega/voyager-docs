@@ -2,7 +2,7 @@
 
 ## Project Goals
 
-Voyager is a data visualization tool that blends manual and automatic chart specification in a unified system. It aims to support smoother gradations between open-ended exploration and more focused phases of analysis. Voyager augments a traditional drag and drop chart specification interface with two new partial view specification techniques. [Related Views](visualizing-data/related-views.md) automatically recommend charts based on your currently specified view, promoting the discovery of relevant data fields and alternative ways to summarize or encode your data. [Wildcards](visualizing-data/wildcard-fields.md) let you to precisely vary the properties of a specification to generate multiple visualizations in parallel, giving you control over sets of charts aligned with your analysis goals.
+Voyager is a data visualization tool that blends manual and automatic chart specification in a unified system. It aims to support smoother gradations between open-ended exploration and more focused phases of analysis. Voyager augments a traditional drag and drop chart specification interface with two new partial view specification techniques. [Related Views](visualizing-data/related-views.md) automatically recommend charts based on your currently specified view, promoting the discovery of relevant data fields and alternative ways to summarize or encode your data. [Wildcards](visualizing-data/wildcard-fields.md) let you precisely vary the properties of a specification to generate multiple visualizations in parallel, giving you control over sets of charts aligned with your analysis goals.
 
 ## Interface Overview
 
