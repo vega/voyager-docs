@@ -20,7 +20,7 @@ To save the current state of a Voyager analysis session, right click \(or ctrl+c
 
 To export the [Altair](https://altair-viz.github.io/) code to generate the specified-view as seen in Voyager, right click \(or ctrl+click if on Mac OS\) anywhere in the View Pane, and click the `Export Voyager to Notebook`option. This will prompt you to choose which Python Kernel to use. After selecting the appropriate kernel, the code will be injected into a notebook, which you can simply display by running that cell.
 
-
+![](.gitbook/assets/exportcode.gif)
 
 #### 
 
