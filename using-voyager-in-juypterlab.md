@@ -1,14 +1,10 @@
 # Using Voyager in JuypterLab
 
-### **Given a Data Source, Open it in Voyager**
+### **Open Files in Voyager Extension**
 
-To open local files through the context menu, right click on a valid file  \(JSON, CSV, TSV, vl.JSON\), select '`Open with`, and click `Voyager`.
+To open local files in the Voyager extension, right click on a valid file  \(JSON, CSV, TSV, vl.JSON\) in JupyterLab's `Files` tab,  select `Open with`, and click `Voyager`. After opening your dataset in Voyager, you can visualize and explore your data as described in [earlier sections](visualizing-data/) of this documentation.
 
 ![](.gitbook/assets/openingvoyager.gif)
-
-### Manipulate and Explore Data in Voyager Interface
-
-After opening the dataset in the Voyager interface, you can manipulate and explore your data, as described in the earlier sections of this [_documentation_](visualizing-data/).
 
 ### Export Data from Voyager
 
