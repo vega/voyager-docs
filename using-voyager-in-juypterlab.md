@@ -12,13 +12,13 @@ You can export the visualization you specified in Voyager to a vl.JSON file or J
 
 ### Export to vl.JSON File
 
-To save your visualization to a vl.JSON file, right click anywhere in the `Specified View` Pane, and click`Export Voyager as Vega-lite File`. You can re-open this file later [in the Voyager extension](using-voyager-in-juypterlab.md#open-files-in-voyager-extension) or with JupyterLab's native Vega-Lite renderer.
+To save your visualization to a vl.JSON file, right click anywhere in the `Specified View` pane, and click`Export Voyager as Vega-lite File`. You can re-open this file later [in the Voyager extension](using-voyager-in-juypterlab.md#open-files-in-voyager-extension) or with JupyterLab's native Vega-Lite renderer.
 
 ![Save specified visualization to vl.JSON file](.gitbook/assets/exportvoyager1.gif)
 
 ### Export to Jupyter Notebook
 
-To export the [Altair](https://altair-viz.github.io/) code to generate the specified-view as seen in Voyager, right click \(or ctrl+click if on Mac OS\) anywhere in the View Pane, and click the `Export Voyager to Notebook`option. This will prompt you to choose which Python Kernel to use. After selecting the appropriate kernel, the code will be injected into a notebook, which you can simply display by running that cell.
+To export your visualization to a Jupyter Notebook, right click anywhere in the `Specified View`pane, and click `Save Voyager to Jupyter Notebook`. JupyterLab will then prompt you to choose a Python Kernel. After selecting a kernel, the code to generate your visualization will be injected into a notebook cell that you can run to display the visualization.
 
 ![](.gitbook/assets/exportcode.gif)
 
