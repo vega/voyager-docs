@@ -2,13 +2,13 @@
 
 ## **Open Files in Voyager Extension**
 
-To open local files in the Voyager extension, right click on a valid file \(JSON, CSV, TSV, vl.JSON\) in JupyterLab's `Files` tab, select `Open with`, and click `Voyager`. After opening your dataset in Voyager, you can visualize and explore your data as described in [earlier sections](https://github.com/vega/voyager-docs/tree/d3786f83366a597c44a2a2b9895ad58d7db6d039/visualizing-data/README.md) of this documentation.
+To open local files in the Voyager extension, right click on a valid file \(JSON, CSV, TSV, vl.JSON\) in JupyterLab's `Files` tab, hover over `Open With`, and click `Voyager`. After opening your dataset in Voyager, you can visualize and explore your data as described in [earlier sections](https://github.com/vega/voyager-docs/tree/d3786f83366a597c44a2a2b9895ad58d7db6d039/visualizing-data/README.md) of this documentation.
 
 ![](.gitbook/assets/openingvoyager.gif)
 
 ## Export Visualization from Voyager Extension
 
-You can export your visualization from Voyager to a vl.JSON file or Jupyter Notebook.
+You can export visualizations from Voyager to a vl.JSON file or Jupyter Notebook.
 
 ### Export to vl.JSON File
 
