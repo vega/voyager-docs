@@ -4,7 +4,7 @@ Wildcards let you to precisely vary the properties of a specification to generat
 
 ### Wildcard Fields
 
-Wildcard fields let you create multiple views in parallel by enumerating over a set of fields. Quantitative, Categorical, and Temporal field wildcards are provided by [default](wildcard-fields.md#preset-wildcard-fields), though you can manually author [custom](wildcard-fields.md#custom-wildcard-fields) wildcards containing the desired fields.
+Wildcard fields let you create multiple views in parallel by enumerating over a set of fields. Quantitative, Categorical, and Temporal field wildcards are provided by [default](wildcards.md#preset-wildcard-fields), though you can manually author [custom](wildcards.md#custom-wildcard-fields) wildcards containing the desired fields.
 
 ![](../.gitbook/assets/screen-shot-2018-05-22-at-1.30.06-pm.png)
 
