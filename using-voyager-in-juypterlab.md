@@ -8,7 +8,7 @@ To open local files in the Voyager extension, right click on a valid file \(JSON
 
 ## Export Visualization from Voyager Extension
 
-You can export visualizations from Voyager to a vl.JSON file or Jupyter Notebook.
+You can export visualizations from Voyager to a vl.JSON \(Vega-Lite\) file or Jupyter Notebook.
 
 ### Export to vl.JSON File
 
@@ -18,7 +18,7 @@ To save your visualization to a vl.JSON file, right click anywhere in the `Speci
 
 ### Export to Jupyter Notebook
 
-To export your visualization to a Jupyter Notebook, right click anywhere in the `Specified View`pane, and click `Save Voyager to Jupyter Notebook`. JupyterLab will then prompt you to choose a Python Kernel. After selecting a kernel, the code to generate your visualization will be injected into a notebook cell. Run the cell to display your visualization.
+To export your visualization to a Jupyter Notebook, right click anywhere in the `Specified View`pane, and click `Save Voyager to Jupyter Notebook`. JupyterLab will then prompt you to choose a Python Kernel. After selecting a kernel, the [Altair code](https://altair-viz.github.io/) to generate your visualization will be injected into a notebook cell. Run the cell to display your visualization.
 
 ![](.gitbook/assets/exportcode.gif)
 
