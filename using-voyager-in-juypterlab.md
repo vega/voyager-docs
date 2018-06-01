@@ -6,9 +6,13 @@ To open local files in the Voyager extension, right click on a valid file  \(JSO
 
 ![](.gitbook/assets/openingvoyager.gif)
 
-### Export Data from Voyager
+### Export Visualization from Voyager
 
-To save the current state of a Voyager analysis session, right click \(or ctrl+click if on Mac OS\) anywhere in the View Pane, and click the `Export Voyager as Vega-lite` option. This will generate a `vl.json` file that you can later re-open by right clicking on the file in the context menu, and clicking `Open With Voyager`.
+You can export the visualization you specified in Voyager to a vl.JSON file or Jupyter Notebook.
+
+#### Export Specified View to vl.JSON Filw
+
+To save your visualization to a vl.JSON file, right click anywhere in the View Pane, and click the `Export Voyager as Vega-lite`. You can re-open this file later [in the Voyager extension](using-voyager-in-juypterlab.md#open-files-in-voyager-extension) or with JupyterLab's native Vega-Lite renderer.
 
 ![Saving current Voyager state to vl.json file](.gitbook/assets/exportvoyager1.gif)
 
